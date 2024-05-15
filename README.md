@@ -1,0 +1,2 @@
+# MouseLocationRecognize
+Python记录鼠标在屏幕上的坐标
